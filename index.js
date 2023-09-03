@@ -7,6 +7,7 @@ import ReactDOM from 'react-dom';
  import Card from "./Card.jsx";
  import "./App.css";
           ReactDOM.render(<>
+          
           <h1>TOP 6 NETFLIX SERIES</h1>
        <Card
        imgsrc="./images/gambit.jpg"  title = "A netflix original series"
